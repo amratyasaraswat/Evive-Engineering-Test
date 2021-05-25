@@ -1,5 +1,24 @@
-# Evive-Engineering-Test
+# Menu Ordering System
 Create a RESTful API that takes orders for breakfast, lunch, and dinner.
+
+### Breakfast
+
+Main | Side | Drink
+-----| -----| ------
+Eggs | Toast | Coffee 
+
+### Lunch
+
+Main | Side | Drink
+-----| -----| ------
+Salad | Chips | Soda
+
+### Breakfast
+
+Main | Side | Drink  | Dessert
+-----| -----| ------  | ------
+Steak | Potatoes | Wine | Cake
+
 
 ## Installing Dependencies:
 Run in terminal `pip install -r requirements.txt`, this will download all the dependencies from requirements.txt file which is essential to run program
